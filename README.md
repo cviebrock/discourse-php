@@ -12,7 +12,7 @@ For more information on the SSO settings in Discourse, visit <https://meta.disco
 The package is registered at Packagist as [cviebrock/discourse-php](https://packagist.org/packages/cviebrock/discourse-php) and can be installed using [composer](http://getcomposer.org/):
 
 ```
-composer require "cviebrock/discourse-php"
+composer require "cviebrock/discourse-php:0.9.*"
 ```
 
 

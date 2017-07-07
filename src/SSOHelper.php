@@ -14,10 +14,13 @@ class SSOHelper
 
     /**
      * @param $secret
+     * @return $this
      */
     public function setSecret($secret)
     {
         $this->secret = $secret;
+
+        return $this;
     }
 
     /**
